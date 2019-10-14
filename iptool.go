@@ -27,7 +27,7 @@ type Client struct {
 
 func NewIPTool() *Client {
 	return &Client{
-		Client : &http.Client{
+		Client: &http.Client{
 			Timeout: 30 * time.Second,
 		},
 	}

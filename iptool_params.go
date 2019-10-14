@@ -1,8 +1,8 @@
 package iptool
 
 type GetIPGeoOutput struct {
-	Code int                 `json:"code"`
-	Data TaobaoIPGeoInfo     `json:"data"`
+	Code int             `json:"code"`
+	Data TaobaoIPGeoInfo `json:"data"`
 }
 
 type TaobaoIPGeoInfo struct {
