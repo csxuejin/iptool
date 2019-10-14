@@ -1,6 +1,11 @@
 git.jd.com/jdcloud-epn/epnc-common/iptool v0.0.0-20190827094254-6cc01022a37f h1:Vdkj0UXrUEOrhGFk1MV1QvdzvxcqOQJ7zT6UjWpbrCA=
 git.jd.com/jdcloud-epn/epnc-common/iptool v0.0.0-20190827094254-6cc01022a37f/go.mod h1:VtSjiQWLk/cFo9zakeHfTcHU95gYWgHSezSr/7cAby8=
+github.com/csxuejin/iptool v0.0.0-20191014083946-d0fafd0c29c1 h1:fGzTuz8Syu/eTi1RMAX+g3jhrt6ESzo00M6TT+mU0RU=
+github.com/csxuejin/iptool v0.0.0-20191014083946-d0fafd0c29c1/go.mod h1:7PC1TgUWsC7c4zbPKT8HQHUCH8QTEZPU187xviDKssU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

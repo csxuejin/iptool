@@ -17,5 +17,5 @@ mac:
 deploy:
 	GOPROXY=off GOOS=linux GOARCH=amd64 go build -o bin/server main.go
 	cd bin && tar czvf iptool.tar.gz server
-	scp bin/iptool.tar.gz root@47.92.115.56:/web/www/iptool/bin/iptool.tar.gz
-	ssh root@47.92.115.56 "cd /web/www/iptool/bin && mv server server2 && tar -xvf iptool.tar.gz && sudo supervisorctl restart iptool"
+	scp bin/iptool.tar.gz root@wedays:/web/www/iptool/bin/iptool.tar.gz
+	ssh root@wedays "cd /web/www/iptool/bin && mv server server2 && tar -xvf iptool.tar.gz && sudo supervisorctl restart iptool"
